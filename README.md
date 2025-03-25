@@ -1,13 +1,13 @@
 # Gutenberg Project - Book Catalog
 
-A React application for browsing and searching books, based on the Gutenberg Project UI Styleguide. [cite: 18, 19, 25]
+A React application for browsing and searching books, based on the Gutenberg Project UI Styleguide.
 
 ## Features
 
-* Browse books by category (Fiction, Drama, Humor, etc.). [cite: 18, 19, 25]
-* Search books by title/author. [cite: 19, 28]
-* Displays book cards with cover, title, and author. [cite: 14, 16]
-* Responsive layout. [cite: 17, 24]
+* Browse books by category (Fiction, Drama, Humor, etc.).
+* Search books by title/author.
+* Displays book cards with cover, title, and author.
+* Responsive layout. 
 
 ## Technologies
 
@@ -18,7 +18,7 @@ A React application for browsing and searching books, based on the Gutenberg Pro
 
 ## Fonts
 
-* Montserrat (Regular, SemiBold) [cite: 2, 4, 6, 8, 10, 11, 12, 13]
+* Montserrat (Regular, SemiBold)
 
 ## Colors
 
@@ -39,6 +39,10 @@ A React application for browsing and searching books, based on the Gutenberg Pro
 1.  **Build:** `npm run build` (or `yarn build`)
 2.  **Preview:** `npm run preview` (or `yarn preview`)
 
+##  Credits
+
+* This project was developed by Siddhesh Ujjainkar(Siddhesh-Ujj)
+
 ## Notes
 
-* Implements designs from the Gutenberg Project UI Styleguide. [cite: 1]
+* Implements designs from the Gutenberg Project UI Styleguide. 
